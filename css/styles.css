@@ -1,0 +1,17 @@
+
+
+h1.intro {
+  text-align: center;
+}
+
+h2.intro {
+  text-transform: capitalize;
+}
+
+img.intro {
+  padding-left:80px;
+}
+
+p.intro {
+  font-style: italic;
+}
